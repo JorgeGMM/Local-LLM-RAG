@@ -1,0 +1,7 @@
+transformers
+torch
+faiss-cpu
+PyPDF2
+sentence-transformers
+streamlit
+markdown
